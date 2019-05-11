@@ -17,7 +17,5 @@ function sayHiToGrandma(string) {
 }
 
 function logWhisper(string) {
-  if(string===string.toLowerCase()) {
-    console.log();
-  }
+  console.log(string.toLowerCase());
 }
