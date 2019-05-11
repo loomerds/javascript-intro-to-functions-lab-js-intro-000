@@ -21,5 +21,5 @@ function logWhisper(string) {
 }
 
 function logShout(string) {
-  onsole.log(string.toUpperCase());
+  console.log(string.toUpperCase());
 }
