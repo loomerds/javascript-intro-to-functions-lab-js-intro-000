@@ -15,3 +15,9 @@ function sayHiToGrandma(string) {
     return "YES INDEED!";
   }
 }
+
+function longWhisper(string) {
+  if(string===string.toLowerCase()) {
+    console.log();
+  }
+}
